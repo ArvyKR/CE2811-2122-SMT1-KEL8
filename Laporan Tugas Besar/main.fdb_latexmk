@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1672668074 "d:/ScanNetworkWiFi-master/Laporan Tugas Besar/main.tex" "main.pdf" "main" 1672668076 0
+["pdflatex"] 1672668343 "d:/ScanNetworkWiFi-master/Laporan Tugas Besar/main.tex" "main.pdf" "main" 1672668345 0
   "C:/Users/Avery/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1671712421 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Avery/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1671712423 10788011 6f057088daebc159ab64099d4b1006c3 ""
   "C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256929440 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -70,9 +70,9 @@
   "C:/Users/Avery/AppData/Local/Programs/MiKTeX/tex/latex/lm/omxlmex.fd" 1430474546 568 a5494d810f2680caf10205cd1226c76c ""
   "C:/Users/Avery/AppData/Local/Programs/MiKTeX/tex/latex/lm/ot1lmr.fd" 1430474546 1882 28c08db1407ebff35a658fd141753d16 ""
   "IEEEtran.cls" 1672299196 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "d:/ScanNetworkWiFi-master/Laporan Tugas Besar/main.tex" 1672668073 11658 abd28c4ebf539f90686e25b4d054f71b ""
-  "main.aux" 1672668076 2494 f42fd4f3364dfb7a8fd9649cbf7728a9 "pdflatex"
-  "main.tex" 1672668073 11658 abd28c4ebf539f90686e25b4d054f71b ""
+  "d:/ScanNetworkWiFi-master/Laporan Tugas Besar/main.tex" 1672668342 11675 20a5fc503b11bf0ab0d883454bb9fc8e ""
+  "main.aux" 1672668345 2494 47785734cdf5701fce89d4ae1372a096 "pdflatex"
+  "main.tex" 1672668342 11675 20a5fc503b11bf0ab0d883454bb9fc8e ""
   "picture//Botfather.png" 1672302765 278077 20614b29fc88680707a83eb52ad2fdba ""
   "picture//Flowchart NodeMCU telegram bot.png" 1672397681 35881 9f9d5d2811ba23cff8f0e0a96668ad91 ""
   "picture//Flowchart telegram bot.png" 1672404393 18776 ad4500b31363025ff03b090914905eef ""
