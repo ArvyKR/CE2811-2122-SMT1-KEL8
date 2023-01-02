@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.22)  2 JAN 2023 16:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.22)  2 JAN 2023 21:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -216,48 +216,40 @@ Package pdftex.def Info: ./picture//Botfather.png  used on input line 65.
 
 
  <./picture//Botfather.png>]
-Underfull \hbox (badness 1509) in paragraph at lines 95--96
+Underfull \hbox (badness 1509) in paragraph at lines 97--98
 []\OT1/lmr/m/n/10 NodeMCU versi 0.9 dilun-curkan pada 13 Ok-to-ber
  []
 
 <./picture//Nodem.png, id=19, 542.025pt x 452.4403pt>
 File: ./picture//Nodem.png Graphic file (type png)
 <use ./picture//Nodem.png>
-Package pdftex.def Info: ./picture//Nodem.png  used on input line 101.
+Package pdftex.def Info: ./picture//Nodem.png  used on input line 103.
 (pdftex.def)             Requested size: 154.80157pt x 129.21606pt.
-<./picture//cloud.png, id=20, 1072.005pt x 790.955pt>
-File: ./picture//cloud.png Graphic file (type png)
-<use ./picture//cloud.png>
-Package pdftex.def Info: ./picture//cloud.png  used on input line 110.
-(pdftex.def)             Requested size: 206.39685pt x 152.2744pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 119.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 119.
-<./picture//Flowchart telegram bot.png, id=21, 272.01625pt x 472.76625pt>
+<./picture//Flowchart telegram bot.png, id=20, 272.01625pt x 472.76625pt>
 File: ./picture//Flowchart telegram bot.png Graphic file (type png)
 <use ./picture//Flowchart telegram bot.png>
-Package pdftex.def Info: ./picture//Flowchart telegram bot.png  used on input line 139.
+Package pdftex.def Info: ./picture//Flowchart telegram bot.png  used on input line 115.
 (pdftex.def)             Requested size: 103.19843pt x 179.36449pt.
-<./picture//Flowchart NodeMCU telegram bot.png, id=22, 390.45876pt x 720.6925pt>
+<./picture//Flowchart NodeMCU telegram bot.png, id=21, 390.45876pt x 720.6925pt>
 File: ./picture//Flowchart NodeMCU telegram bot.png Graphic file (type png)
 <use ./picture//Flowchart NodeMCU telegram bot.png>
-Package pdftex.def Info: ./picture//Flowchart NodeMCU telegram bot.png  used on input line 147.
+Package pdftex.def Info: ./picture//Flowchart NodeMCU telegram bot.png  used on input line 123.
 (pdftex.def)             Requested size: 103.19843pt x 190.47675pt.
-[2 <./picture//Nodem.png> <./picture//cloud.png> <./picture//Flowchart telegram bot.png>]
-Underfull \hbox (badness 2277) in paragraph at lines 154--157
+
+Underfull \hbox (badness 2277) in paragraph at lines 130--133
 []\OT1/lmr/m/n/10 Cara peng-gu-naan Tele-gram Bot Kelom-pok 8 klik
  []
 
-<./picture//telebott.png, id=29, 576.65437pt x 671.50874pt>
+[2 <./picture//Nodem.png> <./picture//Flowchart telegram bot.png> <./picture//Flowchart NodeMCU telegram bot.png>]
+<./picture//telebott.png, id=27, 576.65437pt x 671.50874pt>
 File: ./picture//telebott.png Graphic file (type png)
 <use ./picture//telebott.png>
-Package pdftex.def Info: ./picture//telebott.png  used on input line 236.
+Package pdftex.def Info: ./picture//telebott.png  used on input line 212.
 (pdftex.def)             Requested size: 206.39685pt x 240.34946pt.
-[3 <./picture//Flowchart NodeMCU telegram bot.png> <./picture//telebott.png>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -269,25 +261,23 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
-
-] (main.aux)
+[3 <./picture//telebott.png>] (main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2342 strings out of 475385
- 43984 string characters out of 2776906
- 399893 words of memory out of 3000000
- 23706 multiletter control sequences out of 15000+600000
- 634523 words of font info for 97 fonts, out of 8000000 for 9000
+ 2324 strings out of 475385
+ 43691 string characters out of 2776906
+ 400893 words of memory out of 3000000
+ 23692 multiletter control sequences out of 15000+600000
+ 633200 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,62p,892b,347s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}<C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (4 pages, 1470917 bytes).
+{C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Avery/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (3 pages, 1424263 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 90 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

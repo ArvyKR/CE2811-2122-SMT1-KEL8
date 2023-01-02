@@ -208,16 +208,6 @@ INPUT .\picture\\Nodem.png
 INPUT .\picture\\Nodem.png
 INPUT .\picture\\Nodem.png
 INPUT .\picture\\Nodem.png
-INPUT .\picture\\cloud.png
-INPUT picture\\cloud.png
-INPUT .\picture\\cloud.png
-INPUT .\picture\\cloud.png
-INPUT .\picture\\cloud.png
-INPUT .\picture\\cloud.png
-INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
-INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi7.tfm
-INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
-INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy7.tfm
 INPUT .\picture\\Flowchart telegram bot.png
 INPUT picture\\Flowchart telegram bot.png
 INPUT .\picture\\Flowchart telegram bot.png
@@ -239,8 +229,8 @@ INPUT .\picture\\telebott.png
 INPUT .\picture\\telebott.png
 INPUT main.aux
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
-INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rmsc.enc
+INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx8.pfb
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx8.pfb
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx9.pfb
@@ -265,7 +255,5 @@ INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
-INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy7.pfb
-INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy7.pfb
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb
 INPUT C:\Users\Avery\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb

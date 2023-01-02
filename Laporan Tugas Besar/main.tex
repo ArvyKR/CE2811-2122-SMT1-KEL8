@@ -92,6 +92,8 @@ antara perangkat penerima dan juga pengirim.
 
 
     \subsection{NodeMCU}
+    NodeMCU ESP32 adalah serangkaian sistem berbiaya rendah dan berdaya rendah pada mikrokontroler chip dengan Wi-Fi terintegrasi dan Bluetooth mode ganda. Seri chip ESP32 meliputi ESP32-D0WDQ6, ESP32-D0WD, ESP32-D2WD, dan ESP32-S0WD. Mikrokontroler ini cocok untuk berbagai aplikasi, termasuk otomatisasi rumah, perangkat IoT (Internet of Things), dan perangkat elektronik yang dapat dikenakan. Seri mikrokontroler ESP32 didasarkan pada mikroprosesor ESP32, yang merupakan mikroprosesor berdaya rendah dengan prosesor dual-core dan Wi-Fi on-chip dan radio Bluetooth.
+
     NodeMCU versi 0.9 diluncurkan pada 13 Oktober 2014 oleh user bernama Hong pada GitHub setahun setelah diproduksinya ESP32 pada 30 Desember 2013. ESP32 merupakan SoC yang memiliki module wifi sebagai perangkat tambahan mikrokontroller agar dapat terhubung dengan wifi dan membuat koneksi TCP/IP.
 
     NodeMCU merupakan sebuah platform IoT yang bersifat open source dan juga include dengan module ESP 12, dan berjalan pada firmware esp32 yang menjadikan NodeMCU sebuah mikrokontroller yang telah dilengkapi dengan module Wifi didalamnya.
@@ -104,34 +106,8 @@ antara perangkat penerima dan juga pengirim.
 
     NodeMCU berfungsi sama seperti Arduino, walaupun dengan IC, GPIO, dan Bahasa program yang digunakan berbeda tetapi tujuannya sama yaitu untuk mengontrol suatu system, dan kelebihannya dibandingkan arduino yaitu telah include dengan module Wifi yang tertanam pada systemnya.
 
-    \subsection{Cloud Hosting}
-    \begin{figure}[h]
-        \centering
-        \includegraphics[width=0.4\textwidth]{cloud.png}
-        \caption{BotFather Telegram}
-    \end{figure}
-
-    Cloud hosting adalah metode hosting di mana aplikasi atau situs web dapat dijalankan dari server yang terhubung ke internet melalui jaringan cloud computing. Cloud hosting menyediakan fleksibilitas dan skalabilitas yang lebih tinggi dibandingkan dengan hosting tradisional, karena pengguna dapat mengakses dan menggunakan sumber daya yang tersedia di jaringan cloud sesuai dengan kebutuhan mereka.
-    \vspace{0.2cm}
-    \subsubsection{Kelebihan Cloud Hosting}
-     
-    \begin{itemize}
-        \item Uptime Lebih Stabil
-        \item Scalability
-        \item Loading Time Lebih Cepat
-        \item Biaya Fleksibel
-        \item Data Recovery Lebih Mudah
-      \end{itemize}
-      \vspace{0.2cm}
-      \subsubsection{Kekurangan Cloud Hosting}
-      \begin{itemize}
-        \item Lebih rentan terkena cyber-attack
-        \item Kecepatan server bergantung pada kecepatan internet
-        \item Pakai cloud bisa menjadi mahal
-      \end{itemize}
     
     
-
 \section{Hasil dan Pembahasan}
 \subsection{Flowcart Telegram Bot}
 \begin{figure}[h]
@@ -139,7 +115,7 @@ antara perangkat penerima dan juga pengirim.
     \includegraphics[width=0.2\textwidth]{Flowchart telegram bot.png}
     \caption{Flowchart Telegram Bot}
 \end{figure}
-\vspace{3cm}
+\vspace{0cm}
 
 \subsection{Flowchart NodeMCU}
 \begin{figure}[h]
@@ -147,7 +123,7 @@ antara perangkat penerima dan juga pengirim.
     \includegraphics[width=0.2\textwidth]{Flowchart NodeMCU telegram bot.png}
     \caption{Flowchart NodeMCU}
 \end{figure}
-\vspace{1cm}
+\vspace{0cm}
 \subsection{Cara Kerja Program}
 Berikut adalah langkah untuk membuat program. Masukan token bot atau API, kemudian inisialisasi library CTBot.h. Buat function untuk mengirim data NodeMCU ke API Telegram Bot.
 
