@@ -5,4 +5,4 @@
 - Fajri Rahmat Ilahi (2022013)
 - Bimo Aryo Pratama (2022008)
 
-- **Link Telegram Bot : https://t.me/CE2811_2122_SMT1_KEL8_BOT**
+- **[Link Telegram Bot](https://t.me/CE2811_2122_SMT1_KEL8_BOT).**
